@@ -1,4 +1,14 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+* {
+  font-family: Inter;
+}
+
+h1,
+h3 {
+  font-weight: 600;
+  border-bottom: 1px solid #eaecef;
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: 2em;
 }
